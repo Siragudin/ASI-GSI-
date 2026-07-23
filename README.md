@@ -1,5 +1,10 @@
 
 # ASI / GSI — Global Innovation Protocols
+
+ASI is a semantic infrastructure for ideas.
+GSI is a global protocol connecting problems with solutions.
+Together they form the missing dual‑loop layer of global innovation.
+
 A semantic infrastructure for ideas. A global protocol for interaction.
 ASI processes ideas. GSI connects problems and solutions.
 Together they form the missing infrastructural layer between human creativity and institutional execution.
