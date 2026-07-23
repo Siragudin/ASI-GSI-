@@ -16,7 +16,7 @@ GSI solves the interaction problem.
 Together they form the first global innovation infrastructure.
 ## Documents
 - 📘 [ASI — Full Book (English)](docs/ASI_EN.pdf)
-- 📗 [GSI — Full Book (English)](docs/GSI_EN.pdf)
+- 📗 [GSI — Full Book (English)](docs/GSI_En.pdf)
 - 📄 ASI RFC — Semantic Protocol Specification
 - 📄 GSI RFC — Interaction Protocol Specification
 ## Architecture Overview
