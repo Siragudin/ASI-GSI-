@@ -4,6 +4,7 @@ A semantic infrastructure for ideas. A global protocol for interaction.
 ASI processes ideas. GSI connects problems and solutions.
 Together they form the missing infrastructural layer between human creativity and institutional execution.
 Not a platform. Not a product. A protocol for the next stage of technological civilization.
+
 ![Dual Loop Architecture](architecture/dual-loop-diagram.png)
 Innovation is fragmented. Solutions exist, but they do not connect.
 Problems exist, but they do not reach those who can solve them.
