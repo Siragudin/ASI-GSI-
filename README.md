@@ -42,4 +42,4 @@ Unlike traditional networks that rely on global bans or centralized policing, GS
     *   📗 **GSI — Full Book (English):** Federated trust models, request/response lifecycle schemas, protocol clients, and network self-regulation mechanics.
 
 ---
-*This architecture is proposed as an open reference design for Microsoft Futures, OpenAI, Google ASI, universities, and sovereign research frameworks to build the open internet of technological progress.*
+*This architecture is proposed as an open reference design for Microsoft Futures, OpenAI, Google, universities, and sovereign research frameworks to build the open internet of technological progress.*
