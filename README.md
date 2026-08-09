@@ -42,4 +42,17 @@ Unlike traditional networks that rely on global bans or centralized policing, GS
     *   📗 **GSI — Full Book (English):** Federated trust models, request/response lifecycle schemas, protocol clients, and network self-regulation mechanics.
 
 ---
+author: "Siragudin Guseynov (Сиражудин Гусейнов)"
+project: "ASI / GSI Global Innovation Protocols"
+license: "MIT"
+---
+
+<div align="center">
+  <h3>✨ Архитектор и Автор проекта: Сиражудин Гусейнов (Siragudin Guseynov) </h3>
+  <p><i>Инновационные семантические протоколы децентрализованного взаимодействия искусственного интеллекта</i></p>
+</div>
+
+---
+
+---
 *This architecture is proposed as an open reference design for Microsoft Futures, OpenAI, Google, universities, and sovereign research frameworks to build the open internet of technological progress.*
