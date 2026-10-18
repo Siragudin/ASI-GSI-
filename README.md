@@ -42,7 +42,7 @@ Unlike traditional networks that rely on global bans or centralized policing, GS
     *   📗 **GSI — Full Book (English):** Federated trust models, request/response lifecycle schemas, protocol clients, and network self-regulation mechanics.
 
 ---
-author: "Siragudin Guseynov (Сиражудин Гусейнов)"
+author: "Siragudin Guseynov (Сиражудин Мусаевич Гусейнов)"
 project: "ASI / GSI Global Innovation Protocols"
 license: "MIT"
 ---
