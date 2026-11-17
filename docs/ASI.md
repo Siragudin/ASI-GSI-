@@ -22,46 +22,46 @@ The implementation of such an infrastructure may vary across organizations and d
 
 ## Contents
 
-- [Preface and Introduction](00-preface-introduction.md)
-- [Part I. Vision and Foundational Principles](01-part-1-vision.md)
+- [Preface and Introduction](#preface)
+- [Part I. Vision and Foundational Principles](#part-i-vision-and-foundational-principles)
   - Chapter 1. The Crisis of Fragmented Technological Innovation
   - Chapter 2. Philosophy and Core Principles of ASI
   - Chapter 3. High-Level System Architecture and Objectives
   - Chapter 4. Architectural Principles and Deliberate Constraints
-- [Part II. Idea Intake and Initial Processing](02-part-2-intake.md)
+- [Part II. Idea Intake and Initial Processing](#part-ii-idea-intake-and-initial-processing)
   - Chapter 5. Architecture of Idea Submission and Intake
   - Chapter 6. Architecture of Identification, Privacy, and Anonymity
   - Chapter 7. Architecture of Pre-Evaluation and Quality Control
   - Chapter 8. Architecture of Duplicate Detection and Semantic Similarity
-- [Part III. Semantic Core and Intelligence Layer](03-part-3-semantic-core.md)
+- [Part III. Semantic Core and Intelligence Layer](#part-iii-semantic-core-and-intelligence-layer)
   - Chapter 9. Architecture of the Central Semantic AI and Unified Evaluation Model
   - Chapter 10. Architecture of Semantic Scoring and Multi-Criteria Evaluation
   - Chapter 11. Architecture of Dynamic Novelty, Uniqueness, and Temporal Evolution
   - Chapter 12. Architecture of Semantic Tags, Indexing, Categorization, and Search
   - Chapter 13. Architecture of AI Memory, Knowledge Storage, and Evolution
   - Chapter 14. Architecture of Semantic Synthesis and Idea Amplification
-- [Part IV. Evaluation, Review, and Human-AI Interaction](04-part-4-evaluation-review.md)
+- [Part IV. Evaluation, Review, and Human-AI Interaction](#part-iv-evaluation-review-and-human-ai-interaction)
   - Chapter 15. Architecture of Evaluation and Idea Acceptance
   - Chapter 16. Architecture of Explainability and Decision Transparency
   - Chapter 17. Architecture of Analyst Workflows
   - Chapter 18. Architecture of Human-AI Interaction
   - Chapter 19. Architecture of Feedback and User Experience
-- [Part V. Trust, Governance, and Resilience](05-part-5-trust-governance.md)
+- [Part V. Trust, Governance, and Resilience](#part-v-trust-governance-and-resilience)
   - Chapter 20. Architecture of the Reputation System
   - Chapter 21. Architecture of Abuse Protection and Adversarial Defense
   - Chapter 22. Architecture of Governance, Organizational Flexibility, and Corporate Configuration
   - Chapter 23. Architecture of Audit, Transparency, Security, and Access Control
-- [Part VI. Operation, Scaling, and System Evolution](06-part-6-operation.md)
+- [Part VI. Operation, Scaling, and System Evolution](#part-vi-operation-scaling-and-system-evolution)
   - Chapter 24. Architecture of Queues and High-Load Infrastructure
   - Chapter 25. Architecture of ASI as a Global Semantic Infrastructure
   - Chapter 26. Architecture of Data Storage and Information Lifecycle Management
   - Chapter 27. Architecture of Long-Term Learning and System Evolution
   - Chapter 28. Architecture of the Innovation Lifecycle and Semantic Knowledge Base
-- [Part VII. ASI Ecosystem and Operating Principles](07-part-7-ecosystem.md)
+- [Part VII. ASI Ecosystem and Operating Principles](#part-vii-asi-ecosystem-and-operating-principles)
   - Chapter 29. Author Participation, Operators, and ASI Operating Principles
   - Conclusion. The Future of Global Innovation Intelligence
   - Afterword
-- [Appendices A–J](08-appendices.md)
+- [Appendices A–J](#appendices)
   - Appendix J. What Is Deliberately Left to Implementers
 
 
